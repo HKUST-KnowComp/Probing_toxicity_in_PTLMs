@@ -1,2 +1,2 @@
-# Probing_toxicity_in_PTLMs
-Probing Toxic Content in Large Pretrained Language Models
+# Probing Toxicity in Large Pretrained Language Models
+Code and data of our ACL 2020 paper. (Coming soon)
