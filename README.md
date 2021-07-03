@@ -6,7 +6,7 @@ cands.zip includes the list of social groups.
 The atomic probing csv files includes the actions and the patterns.
 
 
-## Requirements:
+## Requirements
 
 Python 3.6 and above
 
@@ -15,3 +15,7 @@ tqdm
 torch 0.4 and above
 
 transformers 2.2.1 and above
+
+##Guidelines and examples
+
+Coming soon (Week of 5-9 July 2021)
